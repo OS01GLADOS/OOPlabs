@@ -1,0 +1,10 @@
+D:\Project2\LabNum2\LabNum2\bin\Debug\LabNum2.exe.config
+D:\Project2\LabNum2\LabNum2\bin\Debug\LabNum2.exe
+D:\Project2\LabNum2\LabNum2\bin\Debug\LabNum2.pdb
+D:\Project2\LabNum2\LabNum2\obj\Debug\LabNum2.csprojAssemblyReference.cache
+D:\Project2\LabNum2\LabNum2\obj\Debug\LabNum2.csproj.CoreCompileInputs.cache
+D:\Project2\LabNum2\LabNum2\obj\Debug\LabNum2.exe
+D:\Project2\LabNum2\LabNum2\obj\Debug\LabNum2.pdb
+d:\Project2\LabNum2\LabNum2\bin\Debug\System.ValueTuple.dll
+d:\Project2\LabNum2\LabNum2\bin\Debug\System.ValueTuple.xml
+d:\Project2\LabNum2\LabNum2\obj\Debug\LabNum2.csproj.CopyComplete
